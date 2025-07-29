@@ -23,7 +23,7 @@ logging.basicConfig(
 
 # Конфигурация (вынесите в отдельный файл config.py)
 ALLOWED_USERS = [7987332507]  # Замените на ваш Telegram ID
-BOT_TOKEN = "8169585431:AAEo-xbnOiCRaz9dlTexinVMpXb3zmbIFvw"  # Замените на ваш токен
+BOT_TOKEN = "TELEGRAM_BOT_TOKEN"  # Замените на ваш токен
 
 def check_access(user_id: int) -> bool:
     """Проверяет, есть ли у пользователя доступ к боту"""
