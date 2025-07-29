@@ -7,4 +7,4 @@ ALLOWED_USERS = [
 ]
 
 # Токен вашего бота
-BOT_TOKEN = "8169585431:AAEo-xbnOiCRaz9dlTexinVMpXb3zmbIFvw"
+BOT_TOKEN = "TOKEN_BOT_TELEGRAM"
